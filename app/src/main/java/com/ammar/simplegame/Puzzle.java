@@ -11,7 +11,7 @@ import android.view.View;
 import android.widget.ImageView;
 import android.widget.RelativeLayout;
 
-public class draganddrop extends AppCompatActivity {
+public class Puzzle extends AppCompatActivity {
     ImageView img;
     String msg;
     private android.widget.RelativeLayout.LayoutParams layoutParams;

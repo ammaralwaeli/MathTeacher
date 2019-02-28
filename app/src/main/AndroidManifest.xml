@@ -9,8 +9,9 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".draganddrop"></activity>
-        <activity android:name=".Adding" />
+        <activity android:name=".Choice"></activity>
+        <activity android:name=".Puzzle" />
+        <activity android:name=".Quiz" />
         <activity android:name=".Operations" />
         <activity android:name=".MainActivity">
             <intent-filter>
